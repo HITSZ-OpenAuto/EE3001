@@ -1,0 +1,52 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 2657,
+    "time": 1751724867,
+    "hash": "36d9757c94faa60d2e335dc09944d99cc2a541b4"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1751009725,
+    "hash": "19a944f648a103dfb2b8b1c0bb34cb7943552f95"
+  },
+  "README.md": {
+    "size": 2331,
+    "time": 1751435291,
+    "hash": "b3b339d9039262a1f012901b148267f2c82f3b82"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1751009725,
+    "hash": "19a944f648a103dfb2b8b1c0bb34cb7943552f95"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1751009725,
+    "hash": "19a944f648a103dfb2b8b1c0bb34cb7943552f95"
+  },
+  "exams/2024秋电机学期末试题（回忆版v1.2）.pdf": {
+    "size": 462600,
+    "time": 1751115685,
+    "hash": "d84947ea5bf550244917dcbf1f3fa27fd50cf546"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1751009725,
+    "hash": "19a944f648a103dfb2b8b1c0bb34cb7943552f95"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1751009725,
+    "hash": "19a944f648a103dfb2b8b1c0bb34cb7943552f95"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1751009725,
+    "hash": "19a944f648a103dfb2b8b1c0bb34cb7943552f95"
+  },
+  "tag.txt": {
+    "size": 448,
+    "time": 1751009725,
+    "hash": "19a944f648a103dfb2b8b1c0bb34cb7943552f95"
+  }
+}
