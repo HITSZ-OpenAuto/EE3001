@@ -64,7 +64,8 @@ content = """
 author = [
   { name = "SSC", link = "https://github.com/SSC202", date = "2024-11" },
   { name = "ZSA", link = "https://github.com/Oliverzsa", date = "2025-07" },
-  { name = "Gaster", link = "https://github.com/WDGaster", date = "2026-01" }]
+  { name = "Gaster", link = "https://github.com/WDGaster", date = "2026-01" },
+]
 
 [[sections]]
 title = "学习建议"
