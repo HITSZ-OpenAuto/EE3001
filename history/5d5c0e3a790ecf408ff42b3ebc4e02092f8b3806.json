@@ -1,0 +1,92 @@
+{
+  ".github/workflows/trigger-workflow.yml": {
+    "size": 554,
+    "time": 1794022778,
+    "hash": "5d5c0e3a790ecf408ff42b3ebc4e02092f8b3806"
+  },
+  "LICENSE": {
+    "size": 20844,
+    "time": 1751009725,
+    "hash": "19a944f648a103dfb2b8b1c0bb34cb7943552f95"
+  },
+  "README.md": {
+    "size": 6079,
+    "time": 1773544966,
+    "hash": "2b4cc500d5ab6e1c2de8f47fa0aee044a7954eea"
+  },
+  "assignments/.gitkeep": {
+    "size": 0,
+    "time": 1751009725,
+    "hash": "19a944f648a103dfb2b8b1c0bb34cb7943552f95"
+  },
+  "assignments/2025秋Gaster/电机学作业1.pdf": {
+    "size": 130089,
+    "time": 1768408169,
+    "hash": "604089972f89c264565800757d31e600d1f17881"
+  },
+  "assignments/2025秋Gaster/电机学作业2.pdf": {
+    "size": 302173,
+    "time": 1768408169,
+    "hash": "604089972f89c264565800757d31e600d1f17881"
+  },
+  "assignments/2025秋Gaster/电机学作业3.pdf": {
+    "size": 225456,
+    "time": 1768408169,
+    "hash": "604089972f89c264565800757d31e600d1f17881"
+  },
+  "assignments/2025秋Gaster/电机学作业4.pdf": {
+    "size": 165434,
+    "time": 1768408169,
+    "hash": "604089972f89c264565800757d31e600d1f17881"
+  },
+  "assignments/2025秋Gaster/电机学作业5.pdf": {
+    "size": 358400,
+    "time": 1768408169,
+    "hash": "604089972f89c264565800757d31e600d1f17881"
+  },
+  "exams/.gitkeep": {
+    "size": 0,
+    "time": 1751009725,
+    "hash": "19a944f648a103dfb2b8b1c0bb34cb7943552f95"
+  },
+  "exams/2024秋电机学期末试题.pdf": {
+    "size": 462600,
+    "time": 1768408169,
+    "hash": "604089972f89c264565800757d31e600d1f17881"
+  },
+  "exams/2025秋电机学期末试题（回忆版）.pdf": {
+    "size": 1176229,
+    "time": 1768408169,
+    "hash": "604089972f89c264565800757d31e600d1f17881"
+  },
+  "labs/.gitkeep": {
+    "size": 0,
+    "time": 1751009725,
+    "hash": "19a944f648a103dfb2b8b1c0bb34cb7943552f95"
+  },
+  "notes/.gitkeep": {
+    "size": 0,
+    "time": 1751009725,
+    "hash": "19a944f648a103dfb2b8b1c0bb34cb7943552f95"
+  },
+  "notes/2024秋电机学笔记-SSC.pdf": {
+    "size": 40100330,
+    "time": 1768408169,
+    "hash": "604089972f89c264565800757d31e600d1f17881"
+  },
+  "notes/2025秋电机学笔记-Gaster.pdf": {
+    "size": 10802026,
+    "time": 1768408169,
+    "hash": "604089972f89c264565800757d31e600d1f17881"
+  },
+  "readme.toml": {
+    "size": 6085,
+    "time": 1773544966,
+    "hash": "2b4cc500d5ab6e1c2de8f47fa0aee044a7954eea"
+  },
+  "slides/.gitkeep": {
+    "size": 0,
+    "time": 1751009725,
+    "hash": "19a944f648a103dfb2b8b1c0bb34cb7943552f95"
+  }
+}
